@@ -1,0 +1,17 @@
+h1 {
+    text-align:center;
+    color:black;
+    font-family: 'Luckiest Guy', cursive;
+}
+
+button{
+    color:blue;
+    font-family: 'Merriweather', serif;
+}
+
+.box{
+  width: 500px;
+  border: 25px solid fuchsia;
+  padding: 25px;
+  margin: 25px;
+}
